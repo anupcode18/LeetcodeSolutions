@@ -1,0 +1,7 @@
+class Solution:
+    def shuffle(self, nums: List[int], n: int) -> List[int]:
+        result = []
+        for x, y in zip(nums[:n], nums[n:]):
+            result.extend([x, y])
+        return result
+        
