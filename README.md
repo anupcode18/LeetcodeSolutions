@@ -53,4 +53,8 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [1470-shuffle-the-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1470-shuffle-the-array) |
 <!---LeetCode Topics End-->
