@@ -37,6 +37,7 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0258-add-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -49,6 +50,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
+| [1486-xor-operation-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
