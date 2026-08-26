@@ -42,6 +42,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -62,6 +63,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0283-move-zeroes](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
