@@ -35,6 +35,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -61,6 +62,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -75,6 +77,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
