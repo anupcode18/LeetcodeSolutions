@@ -53,6 +53,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
@@ -66,6 +67,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
