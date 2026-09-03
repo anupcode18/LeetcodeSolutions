@@ -6,11 +6,12 @@ class Solution:
         right = len(nums) - 1
 
         while left < right:
-            s = nums[left] + nums[right]
-            if s < target:
+            
+            if nums[left] + nums[right] < target:
                 count += right - left
                 left+=1
             else:
+                # Sum is too large, so reduce the sum
                 right-=1
-        return count
+        return count 
         
