@@ -76,6 +76,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0283-move-zeroes](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
@@ -101,12 +102,14 @@ When revising a problem, I can use the folder to quickly review:
 | [0217-contains-duplicate](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -114,4 +117,8 @@ When revising a problem, I can use the folder to quickly review:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
