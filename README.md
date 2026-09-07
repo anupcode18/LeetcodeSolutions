@@ -128,11 +128,13 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
