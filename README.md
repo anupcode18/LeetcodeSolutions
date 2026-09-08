@@ -41,6 +41,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
+| [3870-count-commas-in-range](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3870-count-commas-in-range) |
 ## Simulation
 |  |
 | ------- |
