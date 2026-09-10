@@ -9,7 +9,12 @@ class Solution:
         for i in range(n):
             if prices[i] < min_price:
                 min_price = prices[i]
-            
+
+            profit = prices[i] - min_price   
+
+            if profit > max_profit:
+                max_profit = profit
+
+        return max_profit    
            
-            max_profit = max(max_profit, (prices[i] - min_price))
-        return max_profit
+            
