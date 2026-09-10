@@ -10,10 +10,10 @@ class Solution:
             if prices[i] < min_price:
                 min_price = prices[i]
 
-            profit = prices[i] - min_price   
+            
 
-            if profit > max_profit:
-                max_profit = profit
+            if (prices[i] - min_price) > max_profit:
+                max_profit = (prices[i] - min_price) 
 
         return max_profit    
            
