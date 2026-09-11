@@ -76,6 +76,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0128-longest-consecutive-sequence](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
@@ -110,6 +111,7 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [0001-two-sum](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -118,6 +120,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -131,6 +134,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -149,6 +153,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -157,4 +162,8 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
