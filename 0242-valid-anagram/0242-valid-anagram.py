@@ -3,13 +3,17 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        arr = [0] * 26
-
-        for i in range(len(s)):
-            arr[ord(s[i]) - ord('a')] += 1
-            arr[ord(t[i]) - ord('a')] -= 1
-
-        for check in arr:
-            if check != 0:
+        for i in set(s):
+            if s.count(i) != t.count(i):
                 return False
         return True
+        
+        
+            
+                
+
+        
+
+        
+       
+        
