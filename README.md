@@ -85,6 +85,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0704-binary-search](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1470-shuffle-the-array) |
@@ -141,6 +142,7 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
