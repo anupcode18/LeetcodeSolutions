@@ -88,6 +88,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0704-binary-search](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0706-design-hashmap) |
+| [0912-sort-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1470-shuffle-the-array) |
@@ -139,6 +140,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0217-contains-duplicate](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
+| [0912-sort-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -152,6 +154,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -174,6 +177,7 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [0053-maximum-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -206,4 +210,20 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [0705-design-hashset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0706-design-hashmap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
