@@ -109,6 +109,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0283-move-zeroes) |
@@ -163,6 +164,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0014-longest-common-prefix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
