@@ -6,7 +6,7 @@ class Solution:
         while j < len(nums):  
             if nums[j] != nums[i]:  ## duplicate value get ignored
                 i+=1
-                nums[i], nums[j] = nums[j], nums[i]
+                nums[i]= nums[j]
             j += 1  ## for next unique element
 
         return i + 1  
