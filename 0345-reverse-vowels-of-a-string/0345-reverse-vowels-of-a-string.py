@@ -7,13 +7,12 @@ class Solution:
 
         while left < right:
             if s[left] not in vowels:
-                left+=1
+                left += 1
             elif s[right] not in vowels:
-                right-=1
-            elif s[left] and s[right] in vowels:
+                right -= 1
+            else:
                 s[left], s[right] = s[right], s[left]
-                left+=1
-                right-=1
+                left += 1
+                right -= 1
+
         return ''.join(s)
-            
-        
