@@ -1,8 +1,10 @@
 class Solution:
     def removeDuplicates(self, nums: list[int]) -> int:
 
+        if not nums:
+            return 0
         slow = 0  # index of the last unique element placed
-        
+
         for fast in range(1, len(nums)):
             if nums[fast] != nums[slow]:
                 slow += 1
