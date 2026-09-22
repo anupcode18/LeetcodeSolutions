@@ -1,16 +1,20 @@
 class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
-        n = len(nums)
-        if n == 1:
-            return 1
-        i = 0
-        j = i + 1
-        while j < n:
-            if nums[j] != nums[i]:
+    def removeDuplicates(self, nums: list[int]) -> int:
+        i = 0   ## points to the last unique element
+        j = i + 1 ## scans through the array and find next unique elem
+        
+        while j < len(nums):  
+            if nums[j] != nums[i]:  ## duplicate value get ignored
                 i+=1
                 nums[i], nums[j] = nums[j], nums[i]
-            j+=1
-        return i + 1
+            j += 1  ## for next unique element
 
-            
+        return i + 1  
+""" if i = 2 (index) there will be total three elements 0,1,2 
+return i + 1 => 2 + 1 => 3  """       
+         
+
+
+
+
         
