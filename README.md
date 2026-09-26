@@ -119,6 +119,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0283-move-zeroes](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -178,6 +179,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0242-valid-anagram](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 | [1768-merge-strings-alternately](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1768-merge-strings-alternately) |
@@ -187,6 +189,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0053-maximum-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 ## Divide and Conquer
 |  |
