@@ -1,18 +1,11 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
-        # if len(s) > len(t):
-        #     return False
-        small = 0
-        big = 0
+        i = 0
 
-        while small < len(s) and big < len(t):
-            if s[small] == t[big]:
-                small+=1
-            big+=1
+        for letter in t:
+            if i == len(s):
+                return True
+            if s[i] == letter:
+                i+=1
+        return i == len(s) 
         
-        if small == len(s): 
-            return True
-        return False
-    
-"""     easy way : return small == len(s)
-    if true it will return True """
