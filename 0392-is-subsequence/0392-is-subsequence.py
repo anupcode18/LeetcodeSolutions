@@ -1,7 +1,7 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
-        if len(s) > len(t):
-            return False
+        # if len(s) > len(t):
+        #     return False
         small = 0
         big = 0
 
