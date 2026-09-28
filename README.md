@@ -93,6 +93,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0706-design-hashmap](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0706-design-hashmap) |
 | [0905-sort-array-by-parity](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1470-shuffle-the-array) |
@@ -121,6 +122,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0345-reverse-vowels-of-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -151,6 +153,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
