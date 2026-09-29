@@ -7,9 +7,10 @@ class Solution:
         max_sum = window_sum
 
         for right in range(k, len(nums)):
-            window_sum -= nums[left]
-            window_sum += nums[right]
-
+            window_sum -= nums[left]   # remove outgoing element
+            window_sum += nums[right]  # add incoming element
+            
+            # maxinum of 1st window sum and current sum
             max_sum = max(max_sum, window_sum)
             left += 1
         return max_sum/k  
