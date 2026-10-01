@@ -133,6 +133,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
@@ -179,6 +180,7 @@ When revising a problem, I can use the folder to quickly review:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0115-distinct-subsequences) |
@@ -260,6 +262,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
