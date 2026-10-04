@@ -5,20 +5,15 @@
 #         self.next = next
 class Solution:
     def middleNode(self, head: ListNode | None) -> ListNode | None:
+        ## optimal Approach : Tortoise & Hare 
 
-        ## brute force
-        n = 0  ## counting nodes 
-        temp = head
-        ## after loop end we know nodes length
-        while temp is not None:
-            n+=1
-            temp = temp.next
-        temp = head
-        ## 2nd loop to traverse and finding middle
-        for i in range(0,n//2):
-            temp = temp.next
-        return temp
+        slow = head
+        fast = head
+        # while fast is not None and Fast.next is not None
+        while fast != None and fast.next != None:
+            slow = slow.next
+            fast = fast.next.next  ## fast is double of slow everytime
         
-
+        return slow
 
         
