@@ -62,6 +62,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
 ## Array
 |  |
@@ -239,6 +240,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
