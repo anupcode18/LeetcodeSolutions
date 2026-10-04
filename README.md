@@ -123,6 +123,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0027-remove-element](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0283-move-zeroes) |
@@ -143,6 +144,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0049-group-anagrams](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
@@ -240,6 +242,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0706-design-hashmap) |
@@ -287,4 +290,8 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
