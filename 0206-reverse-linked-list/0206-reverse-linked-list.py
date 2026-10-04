@@ -5,20 +5,14 @@
 #         self.next = next
 class Solution:
     def reverseList(self, head: ListNode | None) -> ListNode | None:
-        ## brute force
-
-        temp = head
-        stack = []
-        while temp is not None:
-            stack.append(temp.val)
-            temp = temp.next
-        temp = head
-        while temp is not None:
-            e = stack.pop()
-            temp.val = e
-            temp = temp.next
+        prev = None
+        curr = head
         
-        return head
-
-
+        while curr:
+            next_node = curr.next  # Save next node
+            curr.next = prev       # Reverse link
+            prev = curr            # Move prev forward
+            curr = next_node       # Move curr forward
+            
+        return prev  # New head of the reversed list
         
