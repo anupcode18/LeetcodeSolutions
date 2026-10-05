@@ -5,9 +5,9 @@
 #         self.next = next
 class Solution:
     def oddEvenList(self, head: ListNode | None) -> ListNode | None:
-        # if head == none return directly head 
+        # if head == none return directly none 
         if not head:
-            return head 
+            return None
 
         odd = head
         # evenHead will be used at the end to connect odd and even nodes
