@@ -119,6 +119,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
@@ -243,6 +244,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
