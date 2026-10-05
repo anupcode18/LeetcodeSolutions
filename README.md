@@ -247,6 +247,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0141-linked-list-cycle](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
