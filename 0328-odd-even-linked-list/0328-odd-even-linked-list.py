@@ -1,29 +1,34 @@
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 class Solution:
-   def oddEvenList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-       if not head: return None
-       
-       # odd points to the first node 
-       odd = head
-       # even points to the second node
-       # evenHead will be used at the end to connect odd and even nodes
-       evenHead = even = head.next
-       
-       # This condition makes sure odd can never be None, since the odd node will always be the one before the even node.
-       # If even is not None, then odd is not None. (odd before even)
-       # If even.next is not None, then after we update odd to the next odd node, it cannot be None. (The next odd node is even.next)
-       while even and even.next:
-           
-           # Connect the current odd node to the next odd node
-           odd.next = odd.next.next
-           # Move the current odd node to the next odd node
-           odd = odd.next
-           
-           #Same thing for even node
-           even.next = even.next.next
-           even = even.next
-       
-       # Connect the last odd node to the start of the even node
-       odd.next = evenHead
+    def oddEvenList(self, head: ListNode | None) -> ListNode | None:
+        # if head == none return directly head 
+        if not head:
+            return head 
 
-       # head never changed, so return it
-       return head
+        odd = head
+        # evenHead will be used at the end to connect odd and even nodes
+        even_head = even = head.next
+
+        # This condition makes sure odd can never be None, since the odd node will always be the one before the even node.
+       # If even is not None, then odd is not None. (odd before even)
+        while even and even.next:
+            # connect the current odd node to the next odd node
+            odd.next = odd.next.next
+            # update the odd node to the next odd node
+            odd = odd.next
+            
+            # same with even
+            even.next = even.next.next
+            even = even.next
+
+        # connect the 1st node of even node to the last node of odd node
+        odd.next = even_head
+        # head never change, just return it
+        return head
+        
+        
+        
