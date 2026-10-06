@@ -62,6 +62,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
 ## Array
@@ -245,6 +246,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
