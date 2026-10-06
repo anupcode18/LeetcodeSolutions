@@ -8,7 +8,7 @@ class Solution:
     def detectCycle(self, head: Optional[ListNode]) -> Optional[ListNode]:
         node = head
         visited = set()
-        while node:
+        while node!= None:
             if node in visited:
                 return node
 
