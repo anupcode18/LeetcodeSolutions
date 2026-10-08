@@ -5,26 +5,18 @@
 #         self.next = next
 class Solution:
     def deleteMiddle(self, head: ListNode | None) -> ListNode | None:
-        if head is None or head.next is None:
+        if not head or not head.next:
             return None
 
-        dummy = ListNode(0, head)
-        curr = dummy
-        n = 0
-        # loop for calc the length of LL or n
-        while curr.next != None:
-            curr = curr.next
-            n+=1
-        # for loop runs till middle of the loop exclude last element 
-        curr = dummy ## reset curr to dummy 
-        for _ in range(n//2):
-            ## move slowPtr to middle node - 1
-            curr = curr.next
-        ## skip the middle node by direclty conneting it' next node
-        curr.next = curr.next.next
+        slow, fast, prev = head, head, None
+        # fast moves doulbe speed of slow, one fast reaches end slow will reach to the middle
+        while fast and fast.next:
+            fast = fast.next.next
+            prev = slow
+            slow = slow.next
+        # skip slow ptr connect the link to next node of slow 
+        prev.next = prev.next.next ## slow.next also works  
 
-        return dummy.next ## return head
-        
-
+        return head
 
         
