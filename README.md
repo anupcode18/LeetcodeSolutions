@@ -64,6 +64,7 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
 ## Array
@@ -128,6 +129,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0125-valid-palindrome](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0283-move-zeroes) |
@@ -254,6 +256,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0092-reverse-linked-list-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0705-design-hashset) |
@@ -308,4 +311,8 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [0141-linked-list-cycle](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
