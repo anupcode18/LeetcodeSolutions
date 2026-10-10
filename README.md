@@ -97,6 +97,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0283-move-zeroes](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0705-design-hashset) |
@@ -159,6 +160,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0242-valid-anagram](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0705-design-hashset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0706-design-hashmap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -211,6 +213,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0344-reverse-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0392-is-subsequence) |
+| [0500-keyboard-row](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
