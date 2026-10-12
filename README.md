@@ -126,6 +126,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0141-linked-list-cycle) |
@@ -206,6 +207,7 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
@@ -295,6 +297,7 @@ When revising a problem, I can use the folder to quickly review:
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
@@ -318,4 +321,16 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0143-reorder-list) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
