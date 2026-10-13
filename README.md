@@ -35,6 +35,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0258-add-digits) |
@@ -45,6 +46,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -55,6 +57,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
@@ -209,6 +212,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0014-longest-common-prefix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0242-valid-anagram) |
