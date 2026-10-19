@@ -35,6 +35,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
