@@ -214,6 +214,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0067-add-binary) |
@@ -232,6 +233,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -341,4 +343,12 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
