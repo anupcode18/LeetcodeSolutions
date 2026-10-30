@@ -355,4 +355,20 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
