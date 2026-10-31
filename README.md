@@ -109,6 +109,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0704-binary-search](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0706-design-hashmap) |
+| [0875-koko-eating-bananas](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -202,6 +203,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
