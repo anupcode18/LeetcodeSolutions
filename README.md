@@ -218,6 +218,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0049-group-anagrams) |
@@ -334,6 +335,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0143-reorder-list) |
 ## Z Algorithm
 |  |
@@ -356,6 +358,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0022-generate-parentheses) |
 ## Tree
 |  |
