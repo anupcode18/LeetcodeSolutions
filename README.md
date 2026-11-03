@@ -37,6 +37,7 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [0009-palindrome-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
@@ -59,6 +60,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
