@@ -1,18 +1,28 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        st = []
+        stack = []
+        for bracket in s:
+            if bracket == '(' or bracket == '[' or bracket == '{' :
+                stack.append(bracket) 
+            
+            else:
+                if len(stack) == 0:
+                    return False
+                ch = stack.pop()
 
-        for i in range(len(s)):
-            if st:
-                last = st[-1]
-                if self.is_pair(last, s[i]):
-                    st.pop()
+                if (
+                    (bracket == ')' and ch == '(') or
+                    (bracket == ']' and ch == '[') or
+                    (bracket == '}' and ch == '{')
+                ):
                     continue
-            st.append(s[i])
+                else:
+                    return False
+                
+        return len(stack) == 0
+
+
+                
+
+
         
-        return not st
-    
-    def is_pair(self, last, cur):
-        if last == "(" and cur == ")" or last == "{" and cur == "}" or last == "[" and cur == "]":
-            return True
-        return False
