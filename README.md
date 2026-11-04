@@ -290,6 +290,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -341,6 +342,7 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [0020-valid-parentheses](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0155-min-stack) |
 ## Z Algorithm
 |  |
 | ------- |
