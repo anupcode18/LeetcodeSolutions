@@ -7,8 +7,10 @@ class MinStack:
 
     def push(self, value: int) -> None:
         self.stack.append(value)
+        # If min_stack is empty or val is less than or equal to current min, push to min_stack
         if not self.min_stack or value <= self.min_stack[-1]:
             self.min_stack.append(value)
+            # copy the same value store in th min stack previously
         else:
             self.min_stack.append(self.min_stack[-1])
 
