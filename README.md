@@ -39,6 +39,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0013-roman-to-integer](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0258-add-digits) |
@@ -96,6 +97,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0169-majority-element) |
@@ -344,6 +346,7 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [0020-valid-parentheses](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
