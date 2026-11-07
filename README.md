@@ -292,6 +292,7 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [0155-min-stack](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -345,6 +346,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0143-reorder-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -388,4 +390,5 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
