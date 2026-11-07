@@ -291,6 +291,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0705-design-hashset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -343,6 +344,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0020-valid-parentheses](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -382,4 +384,8 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0100-same-tree) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
