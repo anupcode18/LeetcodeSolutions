@@ -7,11 +7,12 @@ class Solution:
                 if diff < 0:
                     st.pop()
                 elif diff > 0:
-                    i = 0
+                    break
                 else:
-                    i = 0
                     st.pop()
-            if i != 0:
+                    break
+                    
+            else:
                 st.append(i)
         return st
         
