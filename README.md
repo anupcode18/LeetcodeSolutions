@@ -52,6 +52,7 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [0067-add-binary](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0258-add-digits) |
+| [0735-asteroid-collision](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
@@ -114,6 +115,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0704-binary-search](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0706-design-hashmap) |
+| [0735-asteroid-collision](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0912-sort-an-array) |
@@ -350,6 +352,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0155-min-stack](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0735-asteroid-collision) |
 ## Z Algorithm
 |  |
 | ------- |
