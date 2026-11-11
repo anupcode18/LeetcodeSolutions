@@ -111,6 +111,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0500-keyboard-row) |
+| [0503-next-greater-element-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0705-design-hashset) |
@@ -352,6 +353,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0155-min-stack](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
+| [0503-next-greater-element-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0735-asteroid-collision) |
 ## Z Algorithm
 |  |
@@ -397,4 +399,8 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
