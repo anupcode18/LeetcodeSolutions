@@ -128,6 +128,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1929-concatenation-of-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
