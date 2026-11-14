@@ -130,6 +130,7 @@ When revising a problem, I can use the folder to quickly review:
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -137,6 +138,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0209-minimum-size-subarray-sum](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
@@ -338,6 +340,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0643-maximum-average-subarray-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Interactive
 |  |
 | ------- |
