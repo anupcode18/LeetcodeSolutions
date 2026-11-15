@@ -187,6 +187,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0500-keyboard-row](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0705-design-hashset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0706-design-hashmap) |
+| [1189-maximum-number-of-balloons](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
@@ -224,6 +225,7 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [0169-majority-element](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0912-sort-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
@@ -246,6 +248,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0500-keyboard-row](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0940-distinct-subsequences-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
