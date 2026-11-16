@@ -140,6 +140,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1480-running-sum-of-1d-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3904-smallest-stable-index-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
@@ -263,6 +264,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0940-distinct-subsequences-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
