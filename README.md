@@ -131,6 +131,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -230,6 +231,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0374-guess-number-higher-or-lower](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0875-koko-eating-bananas) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
@@ -292,6 +294,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -300,6 +303,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -334,6 +338,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0912-sort-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -418,6 +423,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0100-same-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
