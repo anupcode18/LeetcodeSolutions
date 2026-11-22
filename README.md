@@ -129,6 +129,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1732-find-the-highest-altitude](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -441,6 +442,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Greedy
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Segment Tree
 |  |
