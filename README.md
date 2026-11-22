@@ -322,6 +322,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0705-design-hashset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0876-middle-of-the-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
