@@ -268,6 +268,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1768-merge-strings-alternately](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Dynamic Programming
 |  |
