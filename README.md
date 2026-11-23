@@ -47,6 +47,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -64,6 +65,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
