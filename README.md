@@ -47,6 +47,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3870-count-commas-in-range) |
@@ -65,6 +66,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -145,6 +147,7 @@ When revising a problem, I can use the folder to quickly review:
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -385,6 +388,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Interactive
 |  |
 | ------- |
@@ -467,6 +471,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Data Stream
 |  |
 | ------- |
