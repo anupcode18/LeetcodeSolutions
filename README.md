@@ -77,6 +77,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0136-single-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
+| [1386-cinema-seat-allocation](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
@@ -136,6 +137,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1331-rank-transform-of-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
@@ -218,6 +220,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1331-rank-transform-of-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1386-cinema-seat-allocation) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -466,6 +469,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2567-minimum-score-by-changing-two-elements) |
