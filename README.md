@@ -49,6 +49,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1486-xor-operation-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
 | [2029-stone-game-ix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3870-count-commas-in-range) |
