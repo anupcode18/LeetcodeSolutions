@@ -47,6 +47,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
+| [2029-stone-game-ix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -140,6 +141,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1732-find-the-highest-altitude](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -260,6 +262,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1189-maximum-number-of-balloons](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -463,6 +466,7 @@ When revising a problem, I can use the folder to quickly review:
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Segment Tree
@@ -478,4 +482,20 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
