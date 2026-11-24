@@ -77,6 +77,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
@@ -148,6 +149,7 @@ When revising a problem, I can use the folder to quickly review:
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3876-construct-uniform-parity-array-ii) |
