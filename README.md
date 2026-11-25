@@ -47,6 +47,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1486-xor-operation-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -71,6 +72,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -148,6 +150,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1732-find-the-highest-altitude](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -512,4 +515,12 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
