@@ -311,6 +311,7 @@ When revising a problem, I can use the folder to quickly review:
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -502,6 +503,7 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/anupcode18/LeetcodeSolutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Data Stream
 |  |
 | ------- |
