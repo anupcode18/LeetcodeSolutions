@@ -465,19 +465,23 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Queue
 |  |
 | ------- |
