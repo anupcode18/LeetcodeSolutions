@@ -63,6 +63,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0067-add-binary](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -140,6 +141,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0905-sort-array-by-parity](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1260-shift-2d-grid](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1352-product-of-the-last-k-numbers) |
@@ -343,6 +345,7 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
+| [1260-shift-2d-grid](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
