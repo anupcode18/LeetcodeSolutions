@@ -300,6 +300,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0500-keyboard-row](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0940-distinct-subsequences-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -430,6 +431,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0232-implement-queue-using-stacks](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0735-asteroid-collision) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -479,9 +481,11 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0503-next-greater-element-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
