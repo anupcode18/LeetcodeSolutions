@@ -39,6 +39,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0013-roman-to-integer](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0231-power-of-two) |
@@ -317,6 +318,7 @@ When revising a problem, I can use the folder to quickly review:
 | ------- |
 | [0022-generate-parentheses](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0392-is-subsequence) |
@@ -532,4 +534,8 @@ When revising a problem, I can use the folder to quickly review:
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
