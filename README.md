@@ -470,6 +470,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0104-maximum-depth-of-binary-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -477,12 +478,14 @@ When revising a problem, I can use the folder to quickly review:
 | [0104-maximum-depth-of-binary-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0112-path-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/anupcode18/LeetcodeSolutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
@@ -491,6 +494,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0104-maximum-depth-of-binary-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0112-path-sum) |
 ## Queue
 |  |
 | ------- |
