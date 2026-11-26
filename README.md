@@ -118,6 +118,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0073-set-matrix-zeroes](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0136-single-number) |
@@ -322,6 +323,7 @@ When revising a problem, I can use the folder to quickly review:
 | [0053-maximum-subarray](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/anupcode18/LeetcodeSolutions/tree/master/0940-distinct-subsequences-ii) |
